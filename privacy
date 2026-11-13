@@ -1,0 +1,102 @@
+
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kebijakan Privasi - KangAI Drive Archive</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 760px;
+      margin: 50px auto;
+      padding: 24px;
+      line-height: 1.7;
+      color: #263247;
+      background: #f5f7fb;
+    }
+    main {
+      background: white;
+      padding: 36px;
+      border-radius: 14px;
+    }
+    h1, h2 { color: #174ea6; }
+    a { color: #174ea6; }
+  </style>
+</head>
+<body>
+<main>
+  <h1>Kebijakan Privasi</h1>
+  <p><strong>KangAI Drive Archive</strong></p>
+  <p>Terakhir diperbarui: 13 November 2026</p>
+
+  <h2>1. Tentang Aplikasi</h2>
+  <p>
+    KangAI Drive Archive merupakan sistem pengarsipan dokumen
+    yang membantu menyimpan bukti transfer dan dokumen transaksi
+    dari Telegram ke Google Drive milik pengguna.
+  </p>
+
+  <h2>2. Data yang Digunakan</h2>
+  <p>Aplikasi dapat memproses data berikut sesuai penggunaan:</p>
+  <ul>
+    <li>Foto, dokumen, dan file bukti transaksi.</li>
+    <li>ID pesan dan grup Telegram untuk identifikasi arsip.</li>
+    <li>Metadata transaksi yang diperlukan untuk pengelompokan arsip.</li>
+    <li>Informasi autentikasi Google untuk mengakses Drive sesuai izin.</li>
+  </ul>
+
+  <h2>3. Penggunaan Data</h2>
+  <p>
+    Data digunakan untuk mengarsipkan, mengelompokkan,
+    menelusuri, dan menyinkronkan dokumen ke Google Drive.
+    Aplikasi tidak menggunakan data tersebut untuk menjual
+    informasi pribadi atau kepentingan periklanan.
+  </p>
+
+  <h2>4. Google Drive dan Keamanan</h2>
+  <p>
+    Aplikasi menggunakan izin Google Drive yang diberikan
+    oleh pemilik akun melalui OAuth. File arsip disimpan
+    di Google Drive sesuai izin akses folder.
+    Aplikasi tidak sengaja menjadikan file arsip dapat
+    diakses publik.
+  </p>
+  <p>
+    Token autentikasi disimpan secara lokal dan tidak boleh
+    dibagikan kepada pihak yang tidak berwenang.
+  </p>
+
+  <h2>5. Penyimpanan dan Penghapusan Data</h2>
+  <p>
+    File arsip dan metadata dapat disimpan selama diperlukan
+    oleh pengelola. Pengguna yang berwenang dapat mengelola
+    file melalui Google Drive dan mencabut akses aplikasi
+    melalui pengaturan keamanan akun Google.
+  </p>
+
+  <h2>6. Pihak Ketiga</h2>
+  <p>
+    Aplikasi menggunakan layanan Telegram dan Google Drive
+    untuk menjalankan fungsi pengarsipan. Penggunaan layanan
+    tersebut juga tunduk pada kebijakan privasi masing-masing
+    penyedia layanan.
+  </p>
+
+  <h2>7. Perubahan Kebijakan</h2>
+  <p>
+    Kebijakan ini dapat diperbarui apabila terdapat perubahan
+    pada fitur atau cara aplikasi memproses data.
+  </p>
+
+  <h2>8. Kontak</h2>
+  <p>
+    Untuk pertanyaan mengenai privasi dan penggunaan aplikasi,
+    silakan hubungi pengelola aplikasi melalui kontak resmi
+    yang tercantum pada Google Auth Platform.
+  </p>
+
+  <p><a href="index.html">Kembali ke halaman utama</a></p>
+</main>
+</body>
+</html>
